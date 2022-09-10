@@ -1,4 +1,4 @@
 ### Olá para você! 👋
 
-### Meu nome é Andresa, e atualmente estou aprendendo front-end, mais especificamente HTML, CSS e Javascript!
+### Meu nome é Andresa Crisostomo Avelar, e atualmente estou estudando para me tornar uma Desenvolvedora Front-end!
 
